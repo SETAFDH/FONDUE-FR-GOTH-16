@@ -1,0 +1,34 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: SETAFDH/FONDUE-FR-GOTH-16
+url: https://github.com/SETAFDH/FONDUE-FR-GOTH-16
+authors:
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - support
+institutions: []
+description: Projet SETAF
+language:
+  - fra
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1200'
+  notAfter: '1300'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 10
