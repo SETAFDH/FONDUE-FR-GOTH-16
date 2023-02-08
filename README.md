@@ -1,5 +1,7 @@
 # HTR data for the SETAF project
 
+dir D. Solfaroli
+
 ## Data
 
 ALTO files with segmentation and transcription fully corrected manually.
