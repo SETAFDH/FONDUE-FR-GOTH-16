@@ -2,22 +2,22 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: SETAFDH/FONDUE-FR-GOTH-16
 url: https://github.com/SETAFDH/FONDUE-FR-GOTH-16
 authors:
-  - name: Simon
-    surname: Gabay
-    orcid: 0000-0001-9094-4475
-    roles:
-      - transcriber
-      - aligner
-      - project-manager
-      - quality-control
-      - support
+- name: Simon
+  surname: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - transcriber
+  - aligner
+  - project-manager
+  - quality-control
+  - support
 institutions: []
 description: Projet SETAF
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '1200'
@@ -26,9 +26,73 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: lines
-    count: 10
+- metric: characters
+  count: 13070
+- metric: files
+  count: 10
+- metric: lines
+  count: 700
+- metric: regions
+  count: 37
+characters:
+  mode: NFD
+  members:
+  - e
+  - s
+  - i
+  - u
+  - n
+  - a
+  - t
+  - l
+  - r
+  - o
+  - d
+  - c
+  - m
+  - .
+  - g
+  - q
+  - p
+  - "\u204A"
+  - "\u0303"
+  - f
+  - h
+  - b
+  - "\u035B"
+  - "\u0363"
+  - "\uA751"
+  - E
+  - "\u033E"
+  - "\u0365"
+  - '2'
+  - '1'
+  - "\u0364"
+  - '6'
+  - '0'
+  - '9'
+  - v
+  - "\uA76F"
+  - C
+  - '3'
+  - z
+  - y
+  - '8'
+  - L
+  - G
+  - "\uA753"
+  - "\u036C"
+  - O
+  - '7'
+  - ':'
+  - I
+  - j
+  - k
+  - T
+  - '4'
+  - R
+  - S
